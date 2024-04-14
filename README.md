@@ -1,2 +1,2 @@
-# SSL_GarciaAlonso_AixaCaterina
-Repositorio público para SSL K2051
+Este es mi repositorio público para la cursada de Sintaxis y Semántica de los Lenguajes.
+Comisión: K2051
